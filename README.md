@@ -1,5 +1,5 @@
 # Udacity-DS-Project-1
-Code for Udacity Data Science Project 1. This is an investigation into Edinbrugh Airbnb data, as publish in June 2022.
+Code for Udacity Data Science Project 1. This is an investigation into Edinburgh Airbnb data, as published in June 2022.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,7 +11,7 @@ Code for Udacity Data Science Project 1. This is an investigation into Edinbrugh
 
 
 ## General Information
-- This project was undertaken as part of Udacity's Data Science Nanodegree. It intends to answer the following questions:
+This project was undertaken as part of Udacity's Data Science Nanodegree. It intends to answer the following questions:
 - Which neighbourhoods are most popular?
 -	Does price vary by neighbourhood? Do reviews? Is there a relationship between the two?
 -	Is there a strong relationship between accommodates, beds and bedrooms?
@@ -36,5 +36,5 @@ Project is: complete for the purpose of the nanodegree. The blog related to this
 
 ## Acknowledgements
 Give credit here.
-- Thanks to Udactiy for providng the opportunity and motivation to undertake this project
+- Thanks to Udactiy for providing the opportunity and motivation to undertake this project
 - This project utilises data from Airbnb's open source data
