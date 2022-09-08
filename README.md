@@ -30,7 +30,7 @@ Python 3 is used throughout the notebook.
 
 
 ## Files
-The files included are lsitings.csv, where the data is held, and 'Udacity Project 1' Jupyter Notebook, which contains all the code.
+The files included are listings.csv, where the data is held, and 'Udacity Project 1' Jupyter Notebook, which contains all the code.
 
 
 ## Project Status
