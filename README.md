@@ -25,6 +25,7 @@ This project was undertaken as part of Udacity's Data Science Nanodegree. It int
 - plotly - version 5.10.0
 - sklearn - version 0.23.1
 - scipy - version 1.5.0
+
 Python 3 is used throughout the notebook.
 
 
