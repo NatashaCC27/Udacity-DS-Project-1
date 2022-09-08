@@ -4,8 +4,7 @@ Code for Udacity Data Science Project 1. This is an investigation into Edinburgh
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [Setup](#setup)
-* [Usage](#usage)
+* [Files](#usage)
 * [Project Status](#project-status)
 * [Acknowledgements](#acknowledgements)
 
@@ -19,15 +18,18 @@ This project was undertaken as part of Udacity's Data Science Nanodegree. It int
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- pandas - version 1.0.5
+- matplotlib - version 3.2.2
+- numpy - version 1.18.5
+- seaborn - version 0.10.1
+- plotly - version 5.10.0
+- sklearn - version 0.23.1
+- scipy - version 1.5.0
+Python 3 is used throughout the notebook.
 
 
-## Setup
-What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?
-
-Proceed to describe how to install / setup one's local environment / get started with the project.
+## Files
+The files included are lsitings.csv, where the data is held, and 'Udacity Project 1' Jupyter Notebook, which contains all the code.
 
 
 ## Project Status
