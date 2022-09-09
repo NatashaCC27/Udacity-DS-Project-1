@@ -34,7 +34,7 @@ The files included are listings.csv, where the data is held, and 'Udacity Projec
 
 
 ## Project Status
-Project is: complete for the purpose of the nanodegree. The blog related to this code can be found here: [add blog link once ready].
+Project is: complete for the purpose of the nanodegree. The blog related to this code can be found here: https://medium.com/@natashacottrell/a-glance-into-edinburghs-airbnb-scene-d8a6bef5cd45.
 
 
 ## Acknowledgements
